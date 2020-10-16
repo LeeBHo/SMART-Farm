@@ -7,3 +7,5 @@
 ![KakaoTalk_20201016_133623217](https://user-images.githubusercontent.com/51445511/96213785-c515c400-0fb4-11eb-891f-e6eb902f3303.png)
 ## 실제 작품
 ![KakaoTalk_20201016_133709985](https://user-images.githubusercontent.com/51445511/96213821-d78ffd80-0fb4-11eb-83b2-6bc3c912318a.png)
+## 회로 구성도
+![KakaoTalk_20201016_134054155](https://user-images.githubusercontent.com/51445511/96213992-43726600-0fb5-11eb-8c4c-a607eb16a88f.png)
